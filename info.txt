@@ -1,0 +1,15 @@
+"Gamemode"
+{
+
+	"name"		"The Collector"
+	"version"	"1.0"
+
+	"author_name"	"Brandon"
+	"author_email"	""
+	"author_url"	""
+	
+	"icon"		""
+	"info"		""
+	"hide"		""
+
+}
